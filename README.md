@@ -5,4 +5,4 @@
 3. Multiple feature engineering for input to machine learning models
 4. Applied machine learning models to accurately predict future costs for using particular type of service and at particular time.
 
-data from kaggle https://www.kaggle.com/d3evil3/diabetes-prediction-model
+data from kaggle 
